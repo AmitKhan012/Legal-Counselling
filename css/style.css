@@ -1,0 +1,22 @@
+body{
+	background: url("../image/blood1.jpg") no-repeat center center fixed;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#frm{
+	border: solid gray 1px;
+	width: 30%;
+	border-radius: 5px;
+	margin: 200px auto;
+	background: #25C4FF;
+	padding: 20px;
+}
+
+#button{
+	width: 100%;
+	color: black;
+	background-color: CornflowerBlue;
+	padding: 5px;
+	margin-left: 0%;
+}
